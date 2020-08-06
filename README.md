@@ -1,6 +1,14 @@
 # Deep Markov Spatio-Temporal Factorization (DMSTF)
 
-Codes and experiments for deep Markov spatio-temporal factorization paper.
+Codes and experiments for the following paper: 
+
+A. Farnoosh, B. Rezaei, E. Sennesh, Z. Khan1, J. Dy, A. Satpute, J.
+Hutchinson, J. van de Meent, and S, Ostadabbas, "Deep Markov Spatio-Temporal Factorization."
+
+Contact: 
+[Amirreza Farnoosh](afarnoosh@ece.neu.edu),
+
+[Sarah Ostadabbas](ostadabbas@ece.neu.edu)
 
 
 ### Dependencies: 
@@ -76,3 +84,7 @@ Run the following snippet for the toy example.
 Run the following snippet to restore results from the pre-trained checkpoint for the synthetic experiment in `./synthetic_results` folder (synthetic fMRI data is not included due to storage limitations).
 
 `python dmfa_synthetic.py`
+
+## License 
+* This code is for non-commertial purpose only. For other uses please contact Augmented Cognition Lab at Northeastern University: http://www.northeastern.edu/ostadabbas/ 
+
