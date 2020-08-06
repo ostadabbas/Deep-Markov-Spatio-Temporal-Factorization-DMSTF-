@@ -2,7 +2,7 @@
 
 Codes and experiments for the following paper: 
 
-A. Farnoosh, B. Rezaei, E. Sennesh, Z. Khan1, J. Dy, A. Satpute, J.
+A. Farnoosh, B. Rezaei, E. Sennesh, Z. Khan, J. Dy, A. Satpute, J.
 Hutchinson, J. van de Meent, and S, Ostadabbas, "Deep Markov Spatio-Temporal Factorization."
 
 Contact: 
@@ -86,5 +86,6 @@ Run the following snippet to restore results from the pre-trained checkpoint for
 `python dmfa_synthetic.py`
 
 ## License 
-* This code is for non-commertial purpose only. For other uses please contact Augmented Cognition Lab at Northeastern University: http://www.northeastern.edu/ostadabbas/ 
+* This code is for non-commertial purpose only. 
+* For further inquiry please contact: Augmented Cognition Lab at Northeastern University: http://www.northeastern.edu/ostadabbas/ 
 
